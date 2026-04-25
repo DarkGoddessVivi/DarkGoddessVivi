@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ButteryPluto
+- 👋 Hi, I’m @DarkGoddessMadoka
 - 👀 I’m interested in Madoka
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anime 
+- 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me: don't
 
 <!---
